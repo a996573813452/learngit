@@ -4,4 +4,4 @@ switch master123456
 
 debug
 
-new function 50%
+new function 100%
